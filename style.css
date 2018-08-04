@@ -1,0 +1,83 @@
+body {
+    background-color: gray;
+
+}
+header, nav, section,aside,h1,p,footer {
+    background-color: white;
+}
+
+
+header {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 50px;
+    padding-top: 30px;
+}
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 50px;
+    padding-top: 30px;
+
+}
+section { 
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    width: 493px;
+    height: 165px;
+    margin-bottom: 20px;
+    padding-top: 28px;
+    font-size: 30px;
+    padding-bottom: 136px;
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+aside {
+    height: 292px;
+    text-align: center;
+    float: right;
+    margin-left: 200p;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    padding-top: 35px;
+    width: 37%;
+    FONT-SIZE: 30px;
+} 
+article {
+    text-align: center;
+    background-color: gray;
+    padding: 11px;
+}
+h1 {
+    text-align: center;
+    padding-bottom: 18px;
+    padding-top: 23px;
+    margin-top: 3px;
+}
+p { 
+    text-align: center;
+    padding-bottom: 14px;
+    padding-top: 0px;
+    margin-top: -16px;
+    height: 41px;
+}
+
+
+footer {
+    text-align: center;
+    height: 70px;
+    padding-top: 30px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.clear {
+    clear: both;
+}
